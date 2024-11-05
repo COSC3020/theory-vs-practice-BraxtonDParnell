@@ -25,3 +25,5 @@ So, it should take about 6.5 seconds to search this tree.
 4. There is always a possibility of bad implementation code for binary trees of sufficient sizes. 
 
 Add your answers to this markdown file.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice
